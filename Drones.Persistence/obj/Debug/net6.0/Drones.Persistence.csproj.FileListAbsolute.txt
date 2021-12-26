@@ -1,0 +1,17 @@
+C:\Users\Lenovo\source\repos\Drones\Drones.Persistence\bin\Debug\net6.0\Drones.Persistence.deps.json
+C:\Users\Lenovo\source\repos\Drones\Drones.Persistence\bin\Debug\net6.0\Drones.Persistence.runtimeconfig.json
+C:\Users\Lenovo\source\repos\Drones\Drones.Persistence\bin\Debug\net6.0\Drones.Persistence.dll
+C:\Users\Lenovo\source\repos\Drones\Drones.Persistence\bin\Debug\net6.0\ref\Drones.Persistence.dll
+C:\Users\Lenovo\source\repos\Drones\Drones.Persistence\bin\Debug\net6.0\Drones.Persistence.pdb
+C:\Users\Lenovo\source\repos\Drones\Drones.Persistence\bin\Debug\net6.0\Drones.Domain.dll
+C:\Users\Lenovo\source\repos\Drones\Drones.Persistence\bin\Debug\net6.0\Drones.Domain.pdb
+C:\Users\Lenovo\source\repos\Drones\Drones.Persistence\obj\Debug\net6.0\Drones.Persistence.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\Drones\Drones.Persistence\obj\Debug\net6.0\Drones.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\Drones\Drones.Persistence\obj\Debug\net6.0\Drones.Persistence.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\Drones\Drones.Persistence\obj\Debug\net6.0\Drones.Persistence.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\Drones\Drones.Persistence\obj\Debug\net6.0\Drones.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Drones\Drones.Persistence\obj\Debug\net6.0\Drones.Persistence.csproj.CopyComplete
+C:\Users\Lenovo\source\repos\Drones\Drones.Persistence\obj\Debug\net6.0\Drones.Persistence.dll
+C:\Users\Lenovo\source\repos\Drones\Drones.Persistence\obj\Debug\net6.0\ref\Drones.Persistence.dll
+C:\Users\Lenovo\source\repos\Drones\Drones.Persistence\obj\Debug\net6.0\Drones.Persistence.pdb
+C:\Users\Lenovo\source\repos\Drones\Drones.Persistence\obj\Debug\net6.0\Drones.Persistence.genruntimeconfig.cache

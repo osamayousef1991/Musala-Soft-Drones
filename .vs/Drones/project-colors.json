@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "0004cce2-67f3-470c-bca5-e599ad4fcb3b": {
+      "ProjectGuid": "0004cce2-67f3-470c-bca5-e599ad4fcb3b",
+      "DisplayName": "Drones.API",
+      "ColorIndex": 0
+    },
+    "bf5ad261-6cb9-49b4-970e-1e9e2892af49": {
+      "ProjectGuid": "bf5ad261-6cb9-49b4-970e-1e9e2892af49",
+      "DisplayName": "Drones.Domain",
+      "ColorIndex": 1
+    },
+    "03705fc7-83a3-45cf-b34e-1f3cb767c7d1": {
+      "ProjectGuid": "03705fc7-83a3-45cf-b34e-1f3cb767c7d1",
+      "DisplayName": "Drones.Persistence",
+      "ColorIndex": 2
+    },
+    "bd501b73-dac0-4113-8009-6586de8c8a38": {
+      "ProjectGuid": "bd501b73-dac0-4113-8009-6586de8c8a38",
+      "DisplayName": "Drones.Repository",
+      "ColorIndex": 3
+    },
+    "b5b06a78-09d6-403c-acf0-5b92d68eb094": {
+      "ProjectGuid": "b5b06a78-09d6-403c-acf0-5b92d68eb094",
+      "DisplayName": "Drones.Handler",
+      "ColorIndex": 4
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 5
+}

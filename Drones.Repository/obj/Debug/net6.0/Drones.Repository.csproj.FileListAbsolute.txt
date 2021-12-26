@@ -1,0 +1,17 @@
+C:\Users\Lenovo\source\repos\Drones\Drones.Repository\bin\Debug\net6.0\Drones.Repository.deps.json
+C:\Users\Lenovo\source\repos\Drones\Drones.Repository\bin\Debug\net6.0\Drones.Repository.dll
+C:\Users\Lenovo\source\repos\Drones\Drones.Repository\bin\Debug\net6.0\ref\Drones.Repository.dll
+C:\Users\Lenovo\source\repos\Drones\Drones.Repository\bin\Debug\net6.0\Drones.Repository.pdb
+C:\Users\Lenovo\source\repos\Drones\Drones.Repository\bin\Debug\net6.0\Drones.Domain.dll
+C:\Users\Lenovo\source\repos\Drones\Drones.Repository\bin\Debug\net6.0\Drones.Persistence.dll
+C:\Users\Lenovo\source\repos\Drones\Drones.Repository\bin\Debug\net6.0\Drones.Domain.pdb
+C:\Users\Lenovo\source\repos\Drones\Drones.Repository\bin\Debug\net6.0\Drones.Persistence.pdb
+C:\Users\Lenovo\source\repos\Drones\Drones.Repository\obj\Debug\net6.0\Drones.Repository.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\Drones\Drones.Repository\obj\Debug\net6.0\Drones.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\Drones\Drones.Repository\obj\Debug\net6.0\Drones.Repository.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\Drones\Drones.Repository\obj\Debug\net6.0\Drones.Repository.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\Drones\Drones.Repository\obj\Debug\net6.0\Drones.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Drones\Drones.Repository\obj\Debug\net6.0\Drones.Repository.csproj.CopyComplete
+C:\Users\Lenovo\source\repos\Drones\Drones.Repository\obj\Debug\net6.0\Drones.Repository.dll
+C:\Users\Lenovo\source\repos\Drones\Drones.Repository\obj\Debug\net6.0\ref\Drones.Repository.dll
+C:\Users\Lenovo\source\repos\Drones\Drones.Repository\obj\Debug\net6.0\Drones.Repository.pdb
